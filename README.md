@@ -10,4 +10,4 @@ Cara Instalasi:
 2. Buka project "rsbkuas" menggunakan Eclipse
 3. Jalankan server Tomcat v8.5
 4. Klik kanan pada project >> Run As >> Run on server
-5. Pada browser ketik: http://localhost:8080/....
+5. Pada browser ketik: "http://localhost:8080/...."
